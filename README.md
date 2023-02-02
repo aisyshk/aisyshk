@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C++
-- 💬 Ask me about ...
-- 📫 How to reach me: -
+- 🌱 I’m currently learning C++, developing a software to perform multiple actions via vocal commands.
