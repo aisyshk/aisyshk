@@ -1,7 +1,5 @@
-### Hi there 👋
+### Heya!
 
-![export](https://github.com/aisyshk/aisyshk/blob/main/export_2.png)
-![export](https://github.com/aisyshk/aisyshk/blob/main/export_3.png)
 ![export](https://github.com/aisyshk/aisyshk/blob/main/export_4.png)
 
 <hr>
