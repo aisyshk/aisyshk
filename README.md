@@ -1,9 +1,11 @@
 ### Heya!
 
+![](https://github.com/aisyshk/aisyshk/blob/main/export_5.png)
+<hr>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aisyshk&theme=dark)
+
 <div align="center">
-  <img src="https://github.com/aisyshk/aisyshk/blob/main/export_5.png" />
-  <hr>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aisyshk&theme=dark" />
+  <img src="" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisyshk&layout=compact&theme=dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aisyshk&theme=dark&langs_count=10" />
 </div>
