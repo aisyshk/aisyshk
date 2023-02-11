@@ -6,7 +6,6 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aisyshk&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisyshk&theme=dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aisyshk&theme=dark" />
-  <img src="https://gists-readme.yizack.com/api?user=aisyshk" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
