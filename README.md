@@ -5,6 +5,7 @@
   <hr>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aisyshk&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisyshk&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisyshk" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aisyshk&theme=dark" />
 </div>
 <div align="center">
