@@ -1,6 +1,6 @@
 ### Heya!
 
-![](https://github.com/aisyshk/aisyshk/blob/main/export_6.png)
+![](https://github.com/aisyshk/aisyshk/blob/main/export_11.png)
 
 <hr>
 
