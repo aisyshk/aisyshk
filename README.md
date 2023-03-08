@@ -11,6 +11,7 @@
 </div>
 
 <div align="center">
+  ![Activity](other.activity.svg)
 </div>
 
 <!--START_SECTION:waka-->
