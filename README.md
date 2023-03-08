@@ -10,7 +10,7 @@
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisyshk&layout=compact&theme=dark" />-->
 </div>
 
-![Activity](./metrics.svg)
+<img src="./metrics.svg">
 
 <!--START_SECTION:waka-->
 
