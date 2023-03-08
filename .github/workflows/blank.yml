@@ -14,7 +14,7 @@ jobs:
           base: header
           token: ${{ secrets.GH_TOKEN }}
           config_timezone: America/Denver
-          plugin:languages: yes
+          plugin_languages: yes
           config_order: base.header, languages
           filename: metrics.svg
           output_action: pull-request
