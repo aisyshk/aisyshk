@@ -17,6 +17,11 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </div>
 
+<img
+  src="https://github.com/aisyshk/aisyshk/blob/main/images/stat.svg"
+  alt="aisyshk WakaTime Activity"
+/>
+
 <!--START_SECTION:waka-->
 
 ```text
