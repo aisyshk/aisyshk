@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aisyshk&theme=dark" />
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisyshk&layout=compact&theme=dark" />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisyshk&layout=compact&theme=dark" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisyshk&layout=compact&theme=dark" />-->
 </div>
 
 <div align="center">
@@ -16,11 +16,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </div>
-
-<img
-  src="https://github.com/aisyshk/aisyshk/blob/main/images/stat.svg"
-  alt="aisyshk WakaTime Activity"
-/>
 
 <!--START_SECTION:waka-->
 
