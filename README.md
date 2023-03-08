@@ -10,9 +10,7 @@
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisyshk&layout=compact&theme=dark" />-->
 </div>
 
-<div align="center">
-  ![Activity](other.activity.svg)
-</div>
+![Activity](other.activity.svg)
 
 <!--START_SECTION:waka-->
 
