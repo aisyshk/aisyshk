@@ -1,8 +1,8 @@
 ### Heya!
 
-[comment]: <> (![](https://github.com/aisyshk/aisyshk/blob/main/dc_ex_1.png))
+<!-- ![](https://github.com/aisyshk/aisyshk/blob/main/dc_ex_1.png) -->
 
-[comment]: <> (<hr>)
+<!-- <hr> -->
 
 <details>
   <summary><b>Terminal</b></summary>
