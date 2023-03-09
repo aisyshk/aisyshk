@@ -11,7 +11,7 @@
 </details>
 
 <html>
-<!---
+<!--
   <!--START_SECTION:waka-->
 
   ```text
@@ -28,7 +28,7 @@
   ```
 
   <!--END_SECTION:waka-->
-  --->
+  -->
 </html>
 
 <div align="center">
