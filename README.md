@@ -4,10 +4,12 @@
 
 <hr>
 
-<img
-  src="https://github.com/aisyshk/aisyshk/blob/main/metrics.plugin.wakatime.svg"
-  alt="Alternative Text"
-/>
+<div align="center">
+  <img
+    src="https://github.com/aisyshk/aisyshk/blob/main/metrics.plugin.wakatime.svg"
+    alt="Alternative Text"
+  />
+</div>
 
 <!--
 <details>
