@@ -34,8 +34,9 @@ Objective-C   3 mins          -------------------------   00.33 %
 
 <!--END_SECTION:waka-->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aisyshk&theme=dark)](https://git.io/streak-stats)
 
 <div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=aisyshk&theme=dark)](https://git.io/streak-stats)
+  
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </div>
