@@ -11,7 +11,6 @@
 </details>
 
 <html>
-<style>
 /*
   <!--START_SECTION:waka-->
 
@@ -30,7 +29,6 @@
 
   <!--END_SECTION:waka-->
   */
-</style>
 </html>
 
 <div align="center">
