@@ -4,11 +4,11 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aisyshk&theme=dark" />
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisyshk&layout=compact&theme=dark" />-->
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisyshk&layout=compact&theme=dark" />-->
-</div>
+<details>
+  <summary><b>Terminal</b></summary>
+  
+  ![gh_terminal](/github profile info.png)
+</details>
 
 <!--START_SECTION:waka-->
 
