@@ -26,4 +26,6 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_recent_load: 500
           plugin_languages_recent_days: 30
+          plugin_followup: yes
+          plugin_followup_indepth: yes
           commits_authoring: firstname lastname, username, username@users.noreply.github.com
