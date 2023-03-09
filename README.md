@@ -7,7 +7,7 @@
 <details>
   <summary><b>Terminal</b></summary>
   
-  ![gh_terminal]("./github profile info.png")
+  ![gh_terminal](./gh_term.png)
 </details>
 
 <!--START_SECTION:waka-->
