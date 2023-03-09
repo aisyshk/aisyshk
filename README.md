@@ -1,8 +1,8 @@
 ### Heya!
 
-# ![](https://github.com/aisyshk/aisyshk/blob/main/dc_ex_1.png)
+[//]: # ![](https://github.com/aisyshk/aisyshk/blob/main/dc_ex_1.png)
 
-# <hr>
+[//]: # <hr>
 
 <details>
   <summary><b>Terminal</b></summary>
