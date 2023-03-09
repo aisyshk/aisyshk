@@ -24,4 +24,6 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_SECRET }}
           plugin_languages: yes
           plugin_languages_indepth: yes
+          plugin_languages_recent_load: 500
+          plugin_languages_recent_days: 30
           commits_authoring: firstname lastname, username, username@users.noreply.github.com
