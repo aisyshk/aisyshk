@@ -4,6 +4,11 @@
 
 <hr>
 
+<img
+  src="https://github.com/aisyshk/aisyshk/blob/main/stat.svg"
+  alt="Alternative Text"
+/>
+
 <!--
 <details>
   <summary><b>Terminal</b></summary>
