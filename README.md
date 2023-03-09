@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2023 - To: 08 March 2023
+From: 05 March 2023 - To: 09 March 2023
 
-Total Time: 13 hrs 26 mins
+Total Time: 19 hrs 50 mins
 
-C++           6 hrs 35 mins   >>>>>>>>>>>>-------------   48.96 %
-CSS           2 hrs 50 mins   >>>>>--------------------   21.09 %
-HTML          2 hrs 43 mins   >>>>>--------------------   20.30 %
-JavaScript    50 mins         >>-----------------------   06.31 %
-C             14 mins         -------------------------   01.85 %
-Objective-C   3 mins          -------------------------   00.49 %
+C++           8 hrs 38 mins   >>>>>>>>>>>--------------   43.58 %
+CSS           4 hrs 44 mins   >>>>>>-------------------   23.86 %
+HTML          4 hrs 36 mins   >>>>>>-------------------   23.25 %
+JavaScript    1 hr 22 mins    >>-----------------------   06.94 %
+C             16 mins         -------------------------   01.36 %
+Objective-C   3 mins          -------------------------   00.33 %
 ```
 
 <!--END_SECTION:waka-->
