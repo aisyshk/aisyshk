@@ -5,7 +5,7 @@
 <hr>
 
 <img
-  src="https://github.com/aisyshk/aisyshk/blob/main/stat.svg"
+  src="https://github.com/aisyshk/aisyshk/blob/main/metrics.plugin.wakatime.svg"
   alt="Alternative Text"
 />
 
