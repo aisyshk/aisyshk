@@ -2,6 +2,11 @@
 
 ![](https://github.com/aisyshk/aisyshk/blob/main/dc_ex_1.png)
 
+<div align="center">
+  <h3>I'd love to connect and collaborate on projects, feel free to contact me if you wish to connect or collaborate!</h3>
+  <h3>Mail: alice@aisys.dev</h3>
+</div>
+
 <hr>
 
 <div align="center">
