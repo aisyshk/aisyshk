@@ -256,27 +256,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">aisys.dev</span>
-                                <div class="bar" style="width: 29.063999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">36%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">GTE</span>
-                                <div class="bar" style="width: 20.952%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">26%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">CAD</span>
-                                <div class="bar" style="width: 14.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Kwosino</span>
-                                <div class="bar" style="width: 6.816%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 31.168%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">39%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">BlazorApp1</span>
-                                <div class="bar" style="width: 6.5680000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 17.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">CAD</span>
+                                <div class="bar" style="width: 15.776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">20%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Kwosino</span>
+                                <div class="bar" style="width: 7.312000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">GTE</span>
+                                <div class="bar" style="width: 6.015999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                         </div>
@@ -286,27 +286,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 31.951999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">40%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Binary</span>
-                                <div class="bar" style="width: 27.464%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 26.839999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">34%</span>
                             </div>
                             <div class="entry">
+                                <span class="name">Binary</span>
+                                <div class="bar" style="width: 25.272000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">32%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">CSHTML</span>
-                                <div class="bar" style="width: 15.431999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
+                                <div class="bar" style="width: 16.543999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">21%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Blazor</span>
-                                <div class="bar" style="width: 3.312%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 9.368%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 1.816%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.9440000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
