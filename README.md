@@ -10,11 +10,12 @@
 <hr>
 
 <div align="center">
-  <img
-    src="https://github.com/aisyshk/aisyshk/blob/main/metrics.plugin.wakatime.svg"
-    alt="Alternative Text"
-  />
+  
+![](https://raw.githubusercontent.com/aisyshk/github-profile-summary/master/profile-summary-card-output/city_lights/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/aisyshk/github-profile-summary/master/profile-summary-card-output/city_lights/4-productive-time.svg)
+
 </div>
+
 
 <!--
 <details>
