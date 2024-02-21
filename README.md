@@ -1,9 +1,7 @@
-
-  ![](gh_term.gif)
-
 <div align="center">
   
-  
+  ![](gh_term.gif)
+
 </div>
 
 <hr>
