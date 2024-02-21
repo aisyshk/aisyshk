@@ -1,7 +1,7 @@
 ### Heya, I'm Alice!
 
 <div align="center">
-  ![gh_terminal](./gh_term.gif)
+  ![](gh_term.gif)
 </div>
 
 <hr>
