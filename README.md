@@ -1,14 +1,18 @@
 ### Heya, I'm Alice!
 
 <div align="center">
+  
   ![](gh_term.gif)
+  
 </div>
 
 <hr>
 
 <div align="center">
+  
   ![](https://raw.githubusercontent.com/aisyshk/github-profile-summary/master/profile-summary-card-output/city_lights/1-repos-per-language.svg)
   ![](https://raw.githubusercontent.com/aisyshk/github-profile-summary/master/profile-summary-card-output/city_lights/4-productive-time.svg)
+  
 </div>
 
 <div align="center">
