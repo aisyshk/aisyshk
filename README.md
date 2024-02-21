@@ -1,6 +1,4 @@
-### Heya, I'm Alice!
-
-<div align="center">
+<div align="center" style="width: 800px; height: 450px;">
   
   ![](gh_term.gif)
   
