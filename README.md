@@ -1,6 +1,8 @@
-<div align="center" style="width: 800px; height: 450px;">
-  
+
   ![](gh_term.gif)
+
+<div align="center">
+  
   
 </div>
 
