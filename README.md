@@ -1,10 +1,3 @@
-<div align="center">
-  
-  ![](gh_term.gif)
-
-</div>
-
-<hr>
 
 <div align="center">
   
