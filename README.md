@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=aisyshk&theme=dark">
+  <img src="https://streak-stats.demolab.com/?user=hux0192&theme=dark">
   <br />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </div>
